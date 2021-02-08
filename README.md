@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="350px" />
+
 
 ### Hi there 👋
 
@@ -15,10 +15,10 @@
 
 ### ✉️ Connect with me:
 
-[<img align="left" alt="MyAccount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/meviesse)
-[<img align="left" alt="MyAccount | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohitaggarwal07/)
+[<img align="left" alt="MyAccount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/v_i_e_s_s_e)
+[<img align="left" alt="MyAccount | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/viesse/)
 [<img align="left" alt="MyAccount | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/v_i_e_s_s_e/)
-[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohit Aggarwal's DEV Profile" height="22" width="22">](https://dev.to/mistermaker)
+
 
 <br />
 
@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Mister-maker&show_icons=true&hide_border=true" />
+  
 
 </details>
 
