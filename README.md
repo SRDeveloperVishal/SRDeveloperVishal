@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on anything that is frontend related.
 - 🤔 I’m looking for help with javascript, python and django framework.
 - 💬 Ask me about frontend related stuff.
-- 📫 How to reach me: mkaggrawal97@gmail.com
+- 📫 How to reach me: s.r.developervishal@gmail.com
 - 📺 Addiction toward Anime 😇
 - ⚡ Fun fact: I ❤️ to code
 
@@ -15,9 +15,9 @@
 
 ### ✉️ Connect with me:
 
-[<img align="left" alt="MyAccount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_MohitAggarwal_)
+[<img align="left" alt="MyAccount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/meviesse)
 [<img align="left" alt="MyAccount | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohitaggarwal07/)
-[<img align="left" alt="MyAccount | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/starboy_kool/)
+[<img align="left" alt="MyAccount | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/v_i_e_s_s_e/)
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohit Aggarwal's DEV Profile" height="22" width="22">](https://dev.to/mistermaker)
 
 <br />
