@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with javascript, python and django framework.
 - 💬 Ask me about frontend related stuff.
 - 📫 How to reach me: s.r.developervishal@gmail.com
-- 📺 Addiction toward Anime 😇
+- 📺 Addiction toward webseries.
 - ⚡ Fun fact: I ❤️ to code
 
 <br />
