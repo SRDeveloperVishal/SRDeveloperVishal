@@ -14,7 +14,7 @@
 <br />
 
 ### ✉️ Connect with me:
-
+- <a herf="mailto:s.r.developervishal@gmail.com">s.r.developervishal@gmail.com</a>
 [<img align="left" alt="MyAccount | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/v_i_e_s_s_e)
 [<img align="left" alt="MyAccount | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/viesse/)
 [<img align="left" alt="MyAccount | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/v_i_e_s_s_e/)
