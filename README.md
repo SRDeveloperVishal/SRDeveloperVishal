@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning python and javascript.
 - 👯 I’m looking to collaborate on anything that is frontend and backend related.
 - 🤔 I’m looking for help with javascript, python and django framework.
-- 💬 Ask me about frontend related stuff.
+- 💬 Ask me about development related stuff.
 - 📫 How to reach me: s.r.developervishal@gmail.com
 - 📺 Addiction toward webseries.
 - ⚡ Fun fact: I ❤️ to code
