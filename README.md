@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Django & Php project.
 - 🌱 I’m currently learning python and javascript.
-- 👯 I’m looking to collaborate on anything that is frontend related.
+- 👯 I’m looking to collaborate on anything that is frontend and backend related.
 - 🤔 I’m looking for help with javascript, python and django framework.
 - 💬 Ask me about frontend related stuff.
 - 📫 How to reach me: s.r.developervishal@gmail.com
